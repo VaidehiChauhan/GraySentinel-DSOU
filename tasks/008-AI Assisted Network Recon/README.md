@@ -2,12 +2,6 @@
 
 ## GraySentinel | Cybersecurity Lab Series
 
-> **Lab Type:** AI-Assisted Network Reconnaissance & Vulnerability Assessment Simulation  
-> **Case ID:** NET-2026-008  
-> **Environment:** Controlled Lab  
-> **Focus:** AI-assisted reconnaissance, network discovery, service enumeration, vulnerability correlation, risk prioritization and reporting
-
----
 
 ## 1. Executive Summary
 
